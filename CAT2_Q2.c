@@ -1,3 +1,8 @@
+/*
+Name: Tumaini Murimi 
+Reg no: CT100/G/26252/25
+Description:Hour_to_work
+*/
 #include <stdio.h>
 
 int main() {
