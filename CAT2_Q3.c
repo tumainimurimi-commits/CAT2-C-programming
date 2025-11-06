@@ -1,3 +1,8 @@
+/*
+Name: Tumaini Murimi 
+Reg no: CT100/G/26252/25
+Description:write_to_file
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
