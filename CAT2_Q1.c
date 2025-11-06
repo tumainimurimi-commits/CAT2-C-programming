@@ -1,3 +1,8 @@
+/*
+Name: Tumaini Murimi 
+Reg no: CT100/G/26252/25
+Description:Array in structure 
+*/
 
 #include <stdio.h>
 
